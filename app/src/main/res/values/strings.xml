@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FirebaseOtp</string>
+    <string name="status_verification_failed">Status Verification Failed</string>
+    <string name="status_verification_succeeded">Status Verification Succeeded</string>
+    <string name="instant_validation">Instant Validation</string>
+    <string name="status_sign_in_failed">Status Signin Failed</string>
+    <string name="signed_out">Sign Out</string>
+    <string name="signed_in">Signed In</string>
+
+    <string name="firebase_status_fmt">Firebase User: %s</string>
+</resources>
